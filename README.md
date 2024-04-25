@@ -1,6 +1,8 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:DDC6B6,100:333D79&text=Welcome%20to%20Minseo's%20GitHub%20🐍&animation=twinkling&fontColor=FCFBFA&fontSize=35&fontAlignY=47&fontAlign=65&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:DDC6B6,100:333D79&text=Minseo%20Kim%20🐍&animation=twinkling&fontColor=FCFBFA&fontSize=35&fontAlignY=47&height=250)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoK1m&theme=onedark&layout=compact)
 </div>
 
 

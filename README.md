@@ -1,7 +1,9 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minseo's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=47&fontAlign=65&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:DDC6B6,100:333D79&text=Welcome%20to%20Minseo's%20GitHub%20🐍&animation=twinkling&fontColor=FCFBFA&fontSize=35&fontAlignY=47&fontAlign=65&height=250)
 </div>
+
+
 <!--
 **MinseoK1m/MinseoK1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

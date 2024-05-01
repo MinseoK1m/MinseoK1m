@@ -23,12 +23,12 @@
             <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">
             <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
             <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white">
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
         </td>
         <td>
-            <!-- 여기에 해당하는 이미지 넣어주세요 -->
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
         </td>
     </tr>
     <tr>
@@ -37,10 +37,9 @@
             <img src="https://img.shields.io/badge/PHP-777BB4E?style=flat-square&logo=PHP&logoColor=black">
             <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white">
             <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
         </td>
         <td>
-            <!-- 여기에 해당하는 이미지 넣어주세요 -->
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
         </td>
     </tr>
     <tr>
@@ -72,6 +71,17 @@
         </td>
         <td>
             <!-- 여기에 해당하는 이미지 넣어주세요 -->
+        </td>
+    </tr>
+    <tr>
+        <td>Communication</td>
+        <td>
+            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+            <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white">
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black">
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
         </td>
     </tr>
 </table>

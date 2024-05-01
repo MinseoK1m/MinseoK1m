@@ -4,7 +4,7 @@
 </div>
 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 차근차근 발전하는 개발자</h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 차근차근 발전하는 개발자👩‍💻</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요.<Br>개발을 공부 중인 김민서 입니다.  </div> 
     </div>
     <div align= "center">

@@ -36,10 +36,10 @@
         <td>
             <img src="https://img.shields.io/badge/PHP-777BB4E?style=flat-square&logo=PHP&logoColor=black">
             <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white">
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black">
         </td>
         <td>
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black">
         </td>
     </tr>
     <tr>
@@ -59,6 +59,7 @@
         <td>RDBMS</td>
         <td>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+            <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white">
         </td>
         <td>
             <!-- 여기에 해당하는 이미지 넣어주세요 -->
@@ -77,11 +78,9 @@
         <td>Communication</td>
         <td>
             <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-            <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white">
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
         </td>
     </tr>
 </table>

@@ -5,7 +5,7 @@
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 차근차근 발전하는 개발자👩‍💻</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 김민서 입니다. <Br>서경대학교 소프트웨어학과에서 앱/웹 관련 개발에 관심을 가지고 공부 중입니다.  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 김민서 입니다. <Br>앱/웹 관련 개발에 관심을 가지고 공부 중입니다.  </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Skills and Tools </h2> <br> 
